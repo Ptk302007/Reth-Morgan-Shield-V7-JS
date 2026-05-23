@@ -1,0 +1,26 @@
+{
+  "1507627638720823316": {
+    "antiflood": true,
+    "antieveryone": true,
+    "limiteFlood": 5,
+    "antiinvite": true,
+    "diasFake": 1,
+    "antifake": true,
+    "antilink": true,
+    "logs": true,
+    "anticargos": true,
+    "logs_staff": "1507665623067660288",
+    "logs_msg": "1507665677547470949",
+    "logs_seguranca": "1507665537147207832",
+    "anticaps": false,
+    "antipreconceito": false,
+    "antibot": true,
+    "antinuke": true,
+    "logs_join": "1507833792214335689",
+    "msg_join": "1507833792214335689",
+    "autorole": null,
+    "bypass_roles": [
+      "1507667364685283431"
+    ]
+  }
+}

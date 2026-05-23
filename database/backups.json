@@ -1,0 +1,128 @@
+{
+  "1507627638720823316": {
+    "nome": "Dev's Reth",
+    "data": "23/05/2026",
+    "cargos": [
+      {
+        "id": "1507667364685283431",
+        "name": "Developer´s",
+        "color": 918532,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": "0",
+        "position": 2
+      },
+      {
+        "id": "1507667365851037857",
+        "name": "BOT´S",
+        "color": 0,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": "0",
+        "position": 1
+      }
+    ],
+    "canais": [
+      {
+        "name": "Canais de Texto",
+        "type": 4,
+        "parentId": null,
+        "position": 0,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": []
+      },
+      {
+        "name": "Canais de Voz",
+        "type": 4,
+        "parentId": null,
+        "position": 1,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": []
+      },
+      {
+        "name": "Logs",
+        "type": 4,
+        "parentId": null,
+        "position": 2,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": [
+          {
+            "id": "1507627638720823316",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "name": "geral",
+        "type": 0,
+        "parentId": "1507667367206060085",
+        "position": 0,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": []
+      },
+      {
+        "name": "Geral",
+        "type": 2,
+        "parentId": "1507667369122861097",
+        "position": 0,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": []
+      },
+      {
+        "name": "invasao-links",
+        "type": 0,
+        "parentId": "1507667370158719117",
+        "position": 0,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": [
+          {
+            "id": "1507627638720823316",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "name": "comandos-staff",
+        "type": 0,
+        "parentId": "1507667370158719117",
+        "position": 1,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": [
+          {
+            "id": "1507627638720823316",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "name": "log-msg",
+        "type": 0,
+        "parentId": "1507667370158719117",
+        "position": 2,
+        "topic": null,
+        "nsfw": false,
+        "overwrites": [
+          {
+            "id": "1507627638720823316",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      }
+    ]
+  }
+}
